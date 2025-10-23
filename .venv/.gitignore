@@ -1,0 +1,15 @@
+# created by virtualenv automatically
+
+# 例如 Python 项目常见的 .gitignore 内容
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.idea/
+.vscode/
+*.swp
+.DS_Store
