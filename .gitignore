@@ -1,0 +1,4 @@
+"data/flowers-102/102flowers.tgz" 
+"local_vit_model/pytorch_model.bin" 
+"outputs/best_model.pth" 
+"outputs/lora_adapter/model.safetensors" 
