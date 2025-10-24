@@ -1,3 +1,3 @@
 # VitPictureClassification
 基于ViT微调的花卉分类器
-打开master
+选择master分支查看项目
